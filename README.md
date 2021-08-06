@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenruth
+- 👋 Hi, I’m @Kenruth (Kenny Marutha)
 - 👀 I’m interested in DevOps, Agile Concepts & Code.
 - 🌱 I’m currently learning DevOps in the business world
 - 💞️ I’m looking to collaborate on I&O and IAC
